@@ -1,4 +1,4 @@
 blacksheep==1.2.7
 httpx==0.23.0
-hypercorn==0.13.2
+hypercorn==0.14.1
 uvloop==0.16.0
